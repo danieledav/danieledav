@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danieledav, CEO of Senseledge
-- 👀 I’m interested in an working on AI solutions for healthcare
-- 💞️ I’m looking to collaborate on AI research, exspecially about developing new NN architectures
+- 👀 I’m developing AI solutions for healthcare
+- 💞️ I’m looking to collaborate on AI research, exspecially about new foundation models for healthcare industry
 - 📫 You can reach me at daniele.davoli@senseledge.ai
 
 <!---
